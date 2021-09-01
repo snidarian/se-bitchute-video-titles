@@ -1,0 +1,301 @@
+1630523151297	geckodriver	INFO	Listening on 127.0.0.1:41029
+1630523156365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile67esMR"
+1630523157607	Marionette	INFO	Listening on port 38017
+1630523157688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630523185324	Marionette	INFO	Stopped listening on port 38017
+1630523227096	geckodriver	INFO	Listening on 127.0.0.1:49871
+1630523231003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekl4TJn"
+1630523232196	Marionette	INFO	Listening on port 38799
+1630523232215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630523246102	Marionette	INFO	Stopped listening on port 38799
+1630523290336	geckodriver	INFO	Listening on 127.0.0.1:33667
+1630523294217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelsSPIO"
+1630523295439	Marionette	INFO	Listening on port 44617
+1630523295558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630523313338	Marionette	INFO	Stopped listening on port 44617
+1630523383225	geckodriver	INFO	Listening on 127.0.0.1:45925
+1630523387108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEM79PK"
+1630523388339	Marionette	INFO	Listening on port 33269
+1630523388418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630523629841	Marionette	INFO	Stopped listening on port 33269
+1630525007044	geckodriver	INFO	Listening on 127.0.0.1:58447
+1630525010903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenir1hC"
+1630525012146	Marionette	INFO	Listening on port 45951
+1630525012228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630525030945	Marionette	INFO	Stopped listening on port 45951
+1630525329331	geckodriver	INFO	Listening on 127.0.0.1:39711
+1630525333219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqcLwNi"
+1630525334460	Marionette	INFO	Listening on port 40461
+1630525334575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630525389766	geckodriver	INFO	Listening on 127.0.0.1:58475
+1630525393666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0IyF1Y"
+1630525394971	Marionette	INFO	Listening on port 46817
+1630525395069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+1630525396272	Marionette	INFO	Stopped listening on port 40461
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630525453851	geckodriver	INFO	Listening on 127.0.0.1:40643
+1630525457757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTYvjvC"
+1630525458936	Marionette	INFO	Listening on port 45227
+1630525458983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+1630525464742	Marionette	INFO	Stopped listening on port 46817
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630525500735	Marionette	INFO	Stopped listening on port 45227
+1630525649975	geckodriver	INFO	Listening on 127.0.0.1:35771
+1630525653891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemkn5kd"
+1630525655249	Marionette	INFO	Listening on port 40937
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+1630525655323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630525669311	Marionette	INFO	Stopped listening on port 40937
+1630526660873	geckodriver	INFO	Listening on 127.0.0.1:40163
+1630526664754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBvTM0C"
+1630526665997	Marionette	INFO	Listening on port 39271
+1630526666075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630526705172	Marionette	INFO	Stopped listening on port 39271
+1630526710064	geckodriver	INFO	Listening on 127.0.0.1:51879
+1630526713965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePEcKO2"
+1630526715235	Marionette	INFO	Listening on port 39701
+1630526715269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630526815839	Marionette	INFO	Stopped listening on port 39701
+1630526818493	geckodriver	INFO	Listening on 127.0.0.1:34583
+1630526822382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4f9iyv"
+1630526823634	Marionette	INFO	Listening on port 38247
+1630526823722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630526856718	geckodriver	INFO	Listening on 127.0.0.1:46425
+1630526860643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile32XzI4"
+1630526861803	Marionette	INFO	Listening on port 37625
+1630526861874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+1630526867347	Marionette	INFO	Stopped listening on port 38247
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630526978981	Marionette	INFO	Stopped listening on port 37625
+1630526985419	geckodriver	INFO	Listening on 127.0.0.1:40147
+1630526989289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZrO03I"
+1630526990544	Marionette	INFO	Listening on port 43789
+1630526990628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630527053060	Marionette	INFO	Stopped listening on port 43789
+1630527185312	geckodriver	INFO	Listening on 127.0.0.1:38273
+1630527189227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebZHSCB"
+1630527190463	Marionette	INFO	Listening on port 42731
+1630527190535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630527513760	Marionette	INFO	Stopped listening on port 42731
+1630527571145	geckodriver	INFO	Listening on 127.0.0.1:52067
+1630527571151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUoJULp"
+1630527572205	Marionette	INFO	Listening on port 39913
+1630527572254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1630527614322	Marionette	INFO	Stopped listening on port 39913
+1630527616753	geckodriver	INFO	Listening on 127.0.0.1:51409
+1630527620639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXPI4BN"
+1630527621875	Marionette	INFO	Listening on port 39669
+1630527621956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:70:51
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:917:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:856:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:916:12
+render/<@chrome://mozapps/content/extensions/aboutaddons.js:2348:15
+render@chrome://mozapps/content/extensions/aboutaddons.js:2307:11
+1630527857349	Marionette	INFO	Stopped listening on port 39669
+1630527987277	geckodriver	INFO	Listening on 127.0.0.1:52291
+1630527991189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVXZV3x"
+1630527992456	Marionette	INFO	Listening on port 46077
+1630527992533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630528109148	geckodriver	INFO	Listening on 127.0.0.1:33271
+1630528113057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLO7Frs"
+1630528114297	Marionette	INFO	Listening on port 35617
+1630528114382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630528144222	geckodriver	INFO	Listening on 127.0.0.1:50931
+1630528148103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei9AIoU"
+1630528148924	Marionette	INFO	Stopped listening on port 35617
+1630528149325	Marionette	INFO	Listening on port 40287
+1630528149408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+Failed to create /tmp/Temp-f08da946-47e1-49a4-8107-86020b39f6ff for shader cache (Permission denied)---disabling.
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630528286153	geckodriver	INFO	Listening on 127.0.0.1:54279
+1630528288661	Marionette	INFO	Stopped listening on port 40287
+1630528290065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTlV2y7"
+1630528291271	Marionette	INFO	Listening on port 36825
+1630528291368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630528372798	geckodriver	INFO	Listening on 127.0.0.1:40093
+1630528376103	Marionette	INFO	Stopped listening on port 36825
+1630528376719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4WQTTj"
+1630528377955	Marionette	INFO	Listening on port 37767
+1630528378040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630528447870	geckodriver	INFO	Listening on 127.0.0.1:48181
+1630528451790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecUlUHv"
+1630528453057	Marionette	INFO	Listening on port 45751
+1630528453127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630528555156	geckodriver	INFO	Listening on 127.0.0.1:38389
+1630528559017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesy8HLV"
+1630528560379	Marionette	INFO	Listening on port 46289
+1630528560445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630528568910	Marionette	INFO	Stopped listening on port 37767
+1630528616218	Marionette	INFO	Stopped listening on port 45751
+1630528878920	geckodriver	INFO	Listening on 127.0.0.1:58405
+1630528881804	Marionette	INFO	Stopped listening on port 46289
+1630528882849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCqSvYZ"
+1630528884087	Marionette	INFO	Listening on port 43449
+1630528884177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630529111890	geckodriver	INFO	Listening on 127.0.0.1:33591
+1630529115813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenevi7E"
+1630529117025	Marionette	INFO	Listening on port 42601
+1630529117117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+1630529121157	Marionette	INFO	Stopped listening on port 43449
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630529164915	geckodriver	INFO	Listening on 127.0.0.1:35249
+1630529168811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0najAw"
+1630529170048	Marionette	INFO	Listening on port 40141
+1630529170128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630529191295	Marionette	INFO	Stopped listening on port 40141
+1630529200653	Marionette	INFO	Stopped listening on port 42601
+1630529232558	geckodriver	INFO	Listening on 127.0.0.1:40233
+1630529236428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXFIqy4"
+1630529237737	Marionette	INFO	Listening on port 35145
+1630529237831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630529938262	Marionette	INFO	Stopped listening on port 46077
+1630529940034	Marionette	INFO	Stopped listening on port 35145
+1630530660666	geckodriver	INFO	Listening on 127.0.0.1:46371
+1630530664577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG93x3I"
+1630530665804	Marionette	INFO	Listening on port 38073
+1630530665884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
+1630530761288	geckodriver	INFO	Listening on 127.0.0.1:53229
+1630530765218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3W8UNE"
+1630530766439	Marionette	INFO	Listening on port 40225
+1630530766528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+1630530767229	Marionette	INFO	Stopped listening on port 38073
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript error: http://192.168.1.254/cgi-bin/home.ha, line 21: TypeError: antiClickjack is null
