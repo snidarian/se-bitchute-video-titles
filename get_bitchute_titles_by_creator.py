@@ -18,7 +18,7 @@ options = Options()
 options.profile = '/home/cn1d4r14n/.mozilla/firefox/t8oqdk41.default-esr'
 
 # will eventually run headlessly
-options.headless = False
+options.headless = True
 
 # link to web browser driver
 service = Service('/home/cn1d4r14n/Documents/geckodriver')
