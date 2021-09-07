@@ -388,3 +388,15 @@ JavaScript warning: https://c.adsco.re/, line 127: Failed to create WebGL contex
 JavaScript warning: https://c.adsco.re/, line 127: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://c.adsco.re/, line 127: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1631012663435	geckodriver	INFO	Listening on 127.0.0.1:33863
+1631012668227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemXwn3o"
+*** You are running in headless mode.
+1631012669438	Marionette	INFO	Listening on port 40531
+1631012669531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
