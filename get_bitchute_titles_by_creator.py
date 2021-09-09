@@ -6,6 +6,7 @@
 
 # Setup selenium and Firefox browser
 from selenium import webdriver
+from selenium.webdriver.firefox import service
 # Service class and option class fixes
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
@@ -13,17 +14,19 @@ from selenium.webdriver.firefox.options import Options
 # import the keys class
 from selenium.webdriver.common.keys import Keys
 
-options = Options()
+OPTIONS = Options()
 
-options.profile = '/home/cn1d4r14n/.mozilla/firefox/t8oqdk41.default-esr'
+profile0 = '6ugn43v9.default-esr'
+profile1 = '79rs4mg6.default'
+OPTIONS.profile = f'/home/cn1d4r14n/.mozilla/firefox/{profile0}'
 
 # will eventually run headlessly
-options.headless = True
+OPTIONS.headless = True
 
-# link to web browser driver
-service = Service('/home/cn1d4r14n/Documents/geckodriver')
+# link to web browser driver - This line isn't necessary if you copy geckodriver or other appropriate webdriver to $PATH
+#SERVICE = Service('/home/cn1d4r14n/.geckodriver')
 
-driver = webdriver.Firefox(options=options, service=service)
+driver = webdriver.Firefox(options=OPTIONS)
 
 # needed to help direct the programs scraping
 import argparse
