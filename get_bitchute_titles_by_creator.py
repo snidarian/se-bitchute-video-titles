@@ -79,7 +79,7 @@ def main() -> None:
 if __name__ == "__main__":
     # setup argparse
     parser = argparse.ArgumentParser(description="Automates getting info about Bitchute channels' recent videos")
-    args = parser.add_argument("-c", "--count", help="[count] of most recent videos", type=int)
+    args = parser.add_argument("-c", "--count", help="[count] of most recent videos", type=int, default=10)
     args = parser.parse_args()
     main()
 
