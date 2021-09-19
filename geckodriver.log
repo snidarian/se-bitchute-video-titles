@@ -491,3 +491,60 @@ JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: 
 JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
 JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
 JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1631532105479	geckodriver	INFO	Listening on 127.0.0.1:37195
+1631532108755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWDLVsO"
+*** You are running in headless mode.
+1631532110505	Marionette	INFO	Listening on port 46341
+1631532110574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+Exiting due to channel error.
+1631619218113	geckodriver	INFO	Listening on 127.0.0.1:54817
+1631619221460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen74g90"
+*** You are running in headless mode.
+1631619223337	Marionette	INFO	Listening on port 46557
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+1631619223399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+1631641252006	geckodriver	INFO	Listening on 127.0.0.1:40649
+1631641255437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevlIeq4"
+*** You are running in headless mode.
+1631641256818	Marionette	INFO	Listening on port 36143
+1631641256845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+1631704616657	geckodriver	INFO	Listening on 127.0.0.1:54983
+1631704620021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFCb0Ol"
+*** You are running in headless mode.
+1631704621437	Marionette	INFO	Listening on port 33091
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+1631704621530	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1631791140301	geckodriver	INFO	Listening on 127.0.0.1:43109
+1631791143584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKDBdsX"
+*** You are running in headless mode.
+1631791145291	Marionette	INFO	Listening on port 41909
+1631791145444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 51: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1631877492174	geckodriver	INFO	Listening on 127.0.0.1:58249
+1631877495567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekKwpG4"
+*** You are running in headless mode.
+1631877497346	Marionette	INFO	Listening on port 42367
+1631877497377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1130: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1130: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1631965028047	geckodriver	INFO	Listening on 127.0.0.1:32929
+1631965031481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile11VRBD"
+*** You are running in headless mode.
+1631965033212	Marionette	INFO	Listening on port 43007
+1631965033286	Marionette	WARN	TLS certificate errors will be ignored for this session
