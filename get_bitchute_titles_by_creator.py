@@ -16,8 +16,8 @@ from selenium.webdriver.common.keys import Keys
 
 OPTIONS = Options()
 
-profile0 = '6ugn43v9.default-esr'
-profile1 = '79rs4mg6.default'
+profile0 = '7w5vg7u0.default-esr'
+profile1 = '5rz75ch6.default'
 OPTIONS.profile = f'/home/cn1d4r14n/.mozilla/firefox/{profile0}'
 
 # will eventually run headlessly
