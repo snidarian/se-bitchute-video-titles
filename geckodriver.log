@@ -587,3 +587,8 @@ JavaScript error: https://scrolller.com/static/js/main.1f36b37e.chunk.js, line 1
 *** You are running in headless mode.
 1635200641631	Marionette	INFO	Listening on port 44647
 1635200641647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635200991639	geckodriver	INFO	Listening on 127.0.0.1:49093
+1635200991646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "38391" "-no-remote" "-profile" "/tmp/rust_mozprofileWzdgQM"
+*** You are running in headless mode.
+1635200993982	Marionette	INFO	Listening on port 36129
+1635200994053	Marionette	WARN	TLS certificate errors will be ignored for this session
