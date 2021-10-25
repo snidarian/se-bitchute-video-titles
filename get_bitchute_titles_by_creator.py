@@ -73,7 +73,6 @@ def main() -> None:
             print(f"{green}{video_date}{reset} - {video_title}")
             print(f"\t{yellow}{video_link}{reset}\n")
 
-        
 
 
 if __name__ == "__main__":
