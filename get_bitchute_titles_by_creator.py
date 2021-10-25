@@ -14,19 +14,27 @@ from selenium.webdriver.firefox.options import Options
 # import the keys class
 from selenium.webdriver.common.keys import Keys
 
-OPTIONS = Options()
+# needed to help direct the programs scraping
+import argparse
+# greater control of terminal from script
+import os
+# terminal coloring
+from colorama import Fore
 
-profile0 = '7w5vg7u0.default-esr'
-profile1 = '5rz75ch6.default'
-OPTIONS.profile = f'/home/cn1d4r14n/.mozilla/firefox/{profile0}'
+# dev dependency
+import time
+# creators_list.csv will be used to store the current creators wanted
+import csv
+
+OPTIONS = Options()
+OPTIONS.add_argument("--headless")
 
 # will eventually run headlessly
 OPTIONS.headless = True
 
-# link to web browser driver - This line isn't necessary if you copy geckodriver or other appropriate webdriver to $PATH
-#SERVICE = Service('/home/cn1d4r14n/.geckodriver')
-
+#driver = webdriver.Firefox(options=OPTIONS)
 driver = webdriver.Firefox(options=OPTIONS)
+
 
 # needed to help direct the programs scraping
 import argparse
@@ -74,10 +82,9 @@ def main() -> None:
             print(f"\t{yellow}{video_link}{reset}\n")
 
 
-
 if __name__ == "__main__":
     # setup argparse
-    parser = argparse.ArgumentParser(description="Automates getting info about Bitchute channels' recent videos")
+    parser = argparse.ArgumentParser(description="Automates getting info about Bitchute channels recent videos")
     args = parser.add_argument("-c", "--count", help="[count] of most recent videos", type=int, default=10)
     args = parser.parse_args()
     main()

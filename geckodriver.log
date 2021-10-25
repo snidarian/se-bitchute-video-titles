@@ -548,3 +548,37 @@ Exiting due to channel error.
 *** You are running in headless mode.
 1631965033212	Marionette	INFO	Listening on port 43007
 1631965033286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635199184247	geckodriver	INFO	Listening on 127.0.0.1:39259
+1635199187803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "42185" "-no-remote" "-profile" "/tmp/rust_mozprofilem4MIFR"
+*** You are running in headless mode.
+1635199190165	Marionette	INFO	Listening on port 44909
+1635199190240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://16c3a734-4579-46d4-a176-9cd62eb19ff0/js/utils.js, line 51: Error: Type error for parameter details (Error processing tabId: Integer -1 is too small (must be at least 0)) for browserAction.setIcon.
+JavaScript error: moz-extension://16c3a734-4579-46d4-a176-9cd62eb19ff0/js/utils.js, line 57: Error: Type error for parameter details (Error processing tabId: Integer -1 is too small (must be at least 0)) for browserAction.setBadgeText.
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: https://scrolller.com/images/icons/favicon-200x200.png, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://scrolller.com/static/js/main.1f36b37e.chunk.js, line 1: SecurityError: The operation is insecure.
+1635199320348	geckodriver	INFO	Listening on 127.0.0.1:60901
+1635199323913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "48443" "-no-remote" "-profile" "/tmp/rust_mozprofileVzicbq"
+*** You are running in headless mode.
+1635199326139	Marionette	INFO	Listening on port 39203
+1635199326446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2302: Error: primed listener not re-registered
+JavaScript error: https://scrolller.com/images/icons/favicon-200x200.png, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://scrolller.com/static/js/main.1f36b37e.chunk.js, line 1: SecurityError: The operation is insecure.
+1635199465695	geckodriver	INFO	Listening on 127.0.0.1:41453
+1635199465703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56883" "-no-remote" "-profile" "/tmp/rust_mozprofileroTueb"
+1635199468261	Marionette	INFO	Listening on port 42637
+1635199468312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635199479984	Marionette	INFO	Stopped listening on port 42637
+1635199635351	geckodriver	INFO	Listening on 127.0.0.1:40975
+1635199635356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59265" "-no-remote" "-profile" "/tmp/rust_mozprofileyB54tS"
+1635199637896	Marionette	INFO	Listening on port 35635
+1635199637970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635199649436	Marionette	INFO	Stopped listening on port 35635
+1635200158762	geckodriver	INFO	Listening on 127.0.0.1:55535
+1635200158770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-headless" "--remote-debugging-port" "45909" "-no-remote" "-profile" "/tmp/rust_mozprofileNRgoZ8"
+*** You are running in headless mode.
+1635200161048	Marionette	INFO	Listening on port 40869
+1635200161078	Marionette	WARN	TLS certificate errors will be ignored for this session
