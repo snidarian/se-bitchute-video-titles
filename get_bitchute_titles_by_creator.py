@@ -10,6 +10,7 @@ from selenium.webdriver.firefox import service
 # Service class and option class fixes
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.remote.webdriver import By
 
 # import the keys class
 from selenium.webdriver.common.keys import Keys
@@ -52,14 +53,15 @@ def main() -> None:
     
     for channel_url in creators_list:
         driver.get(channel_url[0])
-        channel_title = driver.find_element_by_xpath('/html/body/div[5]/div[1]/div[3]/div[1]/div/div/div[3]/p[1]/a').text
+        channel_title = driver.find_element(By.XPATH, '/html/body/div[5]/div[1]/div[3]/div[1]/div/div/div[3]/p[1]/a').text
+
         time.sleep(1)
         print(f"{red}\n\n\t\t{channel_title}\n{reset}")
         for video in range(1, (args.count + 1)):
             # print each video title, url, and date
-            video_title = driver.find_element_by_xpath(f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[2]/a').text
-            video_link = driver.find_element_by_xpath(f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[2]/a').get_attribute('href')
-            video_date = driver.find_element_by_xpath(f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[1]/span').text            
+            video_title = driver.find_element(By.XPATH, f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[2]/a').text
+            video_link = driver.find_element(By.XPATH, f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[2]/a').get_attribute('href')
+            video_date = driver.find_element(By.XPATH, f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[1]/span').text
             print(f"{green}{video_date}{reset} - {video_title}")
             print(f"\t{yellow}{video_link}{reset}\n")
 
