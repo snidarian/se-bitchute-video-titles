@@ -29,25 +29,7 @@ import csv
 OPTIONS = Options()
 OPTIONS.add_argument("--headless")
 
-# will eventually run headlessly
-OPTIONS.headless = True
-
-#driver = webdriver.Firefox(options=OPTIONS)
 driver = webdriver.Firefox(options=OPTIONS)
-
-
-# needed to help direct the programs scraping
-import argparse
-# greater control of terminal from script
-import os
-# terminal coloring
-from colorama import Fore
-
-# dev dependency
-import time
-# creators_list.csv will be used to store the current creators wanted
-import csv
-
 
 # setup colored ansi terminal escape sequences
 red = Fore.RED
