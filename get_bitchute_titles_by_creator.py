@@ -10,23 +10,10 @@ from selenium.webdriver.firefox import service
 # Service class and option class fixes
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.remote.webdriver import By
 
 # import the keys class
 from selenium.webdriver.common.keys import Keys
-
-OPTIONS = Options()
-
-profile0 = '7w5vg7u0.default-esr'
-profile1 = '5rz75ch6.default'
-OPTIONS.profile = f'/home/cn1d4r14n/.mozilla/firefox/{profile0}'
-
-# will eventually run headlessly
-OPTIONS.headless = True
-
-# link to web browser driver - This line isn't necessary if you copy geckodriver or other appropriate webdriver to $PATH
-#SERVICE = Service('/home/cn1d4r14n/.geckodriver')
-
-driver = webdriver.Firefox(options=OPTIONS)
 
 # needed to help direct the programs scraping
 import argparse
@@ -40,6 +27,10 @@ import time
 # creators_list.csv will be used to store the current creators wanted
 import csv
 
+OPTIONS = Options()
+OPTIONS.add_argument("--headless")
+
+driver = webdriver.Firefox(options=OPTIONS)
 
 # setup colored ansi terminal escape sequences
 red = Fore.RED
@@ -62,23 +53,22 @@ def main() -> None:
     
     for channel_url in creators_list:
         driver.get(channel_url[0])
-        channel_title = driver.find_element_by_xpath('/html/body/div[5]/div[1]/div[3]/div[1]/div/div/div[3]/p[1]/a').text
+        channel_title = driver.find_element(By.XPATH, '/html/body/div[5]/div[1]/div[3]/div[1]/div/div/div[3]/p[1]/a').text
+
         time.sleep(1)
         print(f"{red}\n\n\t\t{channel_title}\n{reset}")
         for video in range(1, (args.count + 1)):
             # print each video title, url, and date
-            video_title = driver.find_element_by_xpath(f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[2]/a').text
-            video_link = driver.find_element_by_xpath(f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[2]/a').get_attribute('href')
-            video_date = driver.find_element_by_xpath(f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[1]/span').text            
+            video_title = driver.find_element(By.XPATH, f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[2]/a').text
+            video_link = driver.find_element(By.XPATH, f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[2]/a').get_attribute('href')
+            video_date = driver.find_element(By.XPATH, f'/html/body/div[5]/div[1]/div[3]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]/div[{video}]/div/div[2]/div/div[1]/span').text
             print(f"{green}{video_date}{reset} - {video_title}")
             print(f"\t{yellow}{video_link}{reset}\n")
-
-        
 
 
 if __name__ == "__main__":
     # setup argparse
-    parser = argparse.ArgumentParser(description="Automates getting info about Bitchute channels' recent videos")
+    parser = argparse.ArgumentParser(description="Automates getting info about Bitchute channels recent videos")
     args = parser.add_argument("-c", "--count", help="[count] of most recent videos", type=int, default=10)
     args = parser.parse_args()
     main()
